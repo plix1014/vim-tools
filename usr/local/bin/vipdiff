@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vimdiff -c 'so /usr/local/etc/vip.vim' "$@"
+
